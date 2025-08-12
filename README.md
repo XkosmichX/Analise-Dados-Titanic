@@ -1,6 +1,5 @@
 # 🚢 Análise de Sobrevivência do Titanic
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/f3/RMS_Titanic_3.jpg)
 
 *Este projeto é a minha primeira análise de dados exploratória, desenvolvida para aplicar e demonstrar minhas habilidades em Python na resolução de um problema histórico e fascinante.*
 
@@ -23,7 +22,7 @@ O naufrágio do Titanic é um dos eventos mais famosos da história. A narrativa
 
 ---
 
-## Minha Abordagem 👨‍💻
+## Minha Abordagem 
 
 Para responder a essas perguntas, segui um processo estruturado de análise de dados:
 
