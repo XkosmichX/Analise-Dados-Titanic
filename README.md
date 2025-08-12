@@ -48,6 +48,6 @@ Os dados não mentem: a narrativa histórica é, em grande parte, confirmada pel
 
 Para explorar a análise por conta própria:
 
-1.  Clone este repositório: `git clone https://github.com/seu-usuario/analise-dados-titanic.git`
+1.  Clone este repositório: `git clone https://github.com/XkosmichX/Analise-Dados-titanic.git`
 2.  Instale as dependências necessárias (Pandas, Matplotlib, Seaborn).
 3.  Execute o Jupyter Notebook `analise_titanic.ipynb`.
